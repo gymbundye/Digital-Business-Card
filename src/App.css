@@ -1,7 +1,7 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
+  
   text-align: center;
 }
 
@@ -32,17 +32,46 @@
   }
 }
 
-.card {
-  padding: 2em;
-}
+/*  */
 
-.read-the-docs {
-  color: #888;
+*{
+  margin: 0px;
+  padding: 0px;
 }
 body{
-  background-color: rgb(30, 27, 27);
+  background-color: rgb(126, 236, 23);
+
+}
+.title, .job, .contact{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
 }
 .headshot{
-  width: 320px;
+  width: 317px;
+  border-radius: 10px 10px 0px 0px;
+}
+.info{
   
+  width: 317px;
+  color: aliceblue;
+   background: #161619;
+}
+.button{
+  width: 247px;
+  background-color: aqua;
+  border: solid;
+}
+.footer{
+   border-radius: 10px, 10px, 0px, 0px;
+   width: 317px;
+   height: 64px;
+   left: 116px;
+   top: 760px;
+   color: aliceblue;
+   background: #161619;
+   border-radius: 0px 0px 10px 10px;
 }
