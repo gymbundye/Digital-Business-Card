@@ -1,5 +1,5 @@
 import React from 'react'
-import headshot from '/public/Images/headshot.jpg'
+import headshot from '../Images/headshot.jpg'
 import About from './About'
 import Interests from './Interests'
 import { FaEnvelope } from 'react-icons/fa'
