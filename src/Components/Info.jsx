@@ -14,7 +14,7 @@ function Info() {
         <h3 className='job'>Full Stack Developer</h3>
         <h4 className='contact'>jameshbundy@gmail.com</h4>
         
-        <button className='button'> <FaEnvelope className='mail'/> Email me!</button>
+        <center><button className='button'> <FaEnvelope className='mail'/> Email me!</button></center>
         <About/>
         <Interests/>
         </div>
