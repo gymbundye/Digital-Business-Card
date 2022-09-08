@@ -64,7 +64,7 @@ padding: 05px;
   width: 317px;
   color: aliceblue;
   background: #1A1B21;
-  text-align: start ;
+  
 }
 .button{
   width: 247px;
@@ -116,13 +116,15 @@ padding: 05px;
   font-weight: 400;
   font-size: 10.24px;
   line-height: 150%;
-  padding:  5px;
+  padding:  5px 40px;
   width: 247px;
-  text-align: left;
+  height: 61px;
+  left: 151px;
+  top: 561px;
   
 }
 h6{
-  text-decoration: underline;
+  
   width: 242.71px;
   height: 21px;
   left: 151px;
@@ -132,7 +134,18 @@ h6{
   font-weight: 700;
   font-size: 16px;
   line-height: 150%;
-  padding: 5px;
-color: #F5F5F5;
-
+  color: #F5F5F5;
+  padding: 5px 40px;
+}
+.interests{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  padding:  5px 40px;
+  width: 247px;
+  height: 80px;
+  left: 151px;
+  top: 561px
 }
