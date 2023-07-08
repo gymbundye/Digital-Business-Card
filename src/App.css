@@ -23,6 +23,7 @@ font-size: 25px;
 line-height: 30px;
 text-align: center;
 padding: 05px;
+
 }
 .headshot{
   width: 317px;
@@ -33,7 +34,7 @@ padding: 05px;
   border-radius: 10px 10px 0px 0px;
   width: 317px;
   color: aliceblue;
-  background: #1A1B21;
+  background: #08124c;
   
 }
 .button{
@@ -57,7 +58,8 @@ padding: 05px;
    left: 116px;
    top: 760px;
    color: aliceblue;
-   background: #161619;
+   
+   background: #00000c;
    border-radius: 0px 0px 10px 10px;
    
 }
@@ -69,6 +71,7 @@ padding: 05px;
   line-height: 15px;
   text-align: center;
   color: #70cd13;
+  
 }
 .contact{
   font-family: 'Inter';
@@ -88,7 +91,7 @@ padding: 05px;
   line-height: 150%;
   padding:  5px 40px;
   width: 247px;
-  height: 61px;
+  height: 91px;
   left: 151px;
   top: 561px;
   
